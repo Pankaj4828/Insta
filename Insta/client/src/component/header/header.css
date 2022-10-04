@@ -1,0 +1,17 @@
+.header{
+    display: flex;
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 10px;
+    justify-content: space-between;
+    margin: 20px;
+}
+.clone img{
+    width: 200px;
+    height: 50px;
+    margin-left: 30px;
+}
+.camera img{
+    margin-right: 30px;
+    height: 65px;
+}

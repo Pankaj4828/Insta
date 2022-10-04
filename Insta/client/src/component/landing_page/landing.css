@@ -1,0 +1,40 @@
+.landing{
+    display: flex;
+    flex-wrap:wrap;
+}
+.frontimg {
+    width: 50%;
+    
+}
+.frontimg img {
+    object-fit: cover;
+    width: 55%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 300px;
+    
+}
+.ftext{
+    
+    display: flex ;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center; 
+   
+    
+}
+.text{
+    margin-left: 270px;
+    color: green;
+}
+.lbutton{
+    margin-left: 330px;
+    
+    
+}
+.lbutton button{
+    border-color: green;
+    color: green;
+    background-color: white;
+    border-radius: 5px;
+}

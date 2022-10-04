@@ -1,0 +1,20 @@
+.postdata{
+    margin: auto;
+    width: 30vw;
+    height: 30vh;
+    border: 1px solid #707070;   
+}
+input {
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.description{
+    margin-left: 5%;
+    width:27vw ;
+}
+
+ .inputfield button{
+    width: 20%;
+    height: 30px;
+    margin-left: 40%;
+}
